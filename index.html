@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="https://base44.com/logo_v2.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="description" content="LeapOnSAT combines adaptive practice, 1:1 tutoring, Desmos strategy, deep review, and learner-profile insights so students don't just get answers — they learn how to think through the test." />
+    <meta property="og:title" content="LeapOn SAT — Learn to leap" />
+    <meta property="og:description" content="LeapOnSAT combines adaptive practice, 1:1 tutoring, Desmos strategy, deep review, and learner-profile insights so students don't just get answers — they learn how to think through the test." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="LeapOn SAT — Learn to leap" />
+    <meta name="twitter:description" content="LeapOnSAT combines adaptive practice, 1:1 tutoring, Desmos strategy, deep review, and learner-profile insights so students don't just get answers — they learn how to think through the test." />
+    <title>LeapOn</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      if ('caches' in window) {
+        caches.keys().then((names) => {
+          for (const name of names) caches.delete(name);
+        });
+      }
+    </script>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
