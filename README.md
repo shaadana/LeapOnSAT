@@ -9,6 +9,9 @@ Currently deployed and ready for use at leaponsat.com
 
 ## Solution and Features: 
 
+### Where We Differ: 
+
+
 ## Creation/Development Process: 
 
 ## Challenges and Lessons Learned: 
