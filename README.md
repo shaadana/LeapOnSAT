@@ -4,6 +4,9 @@ The AI-powered adaptive SAT practice platform for mastery. For the AceSAT Hackat
 Currently deployed and ready for use at leaponsat.com
 
 ## Photo Gallery: 
+### Student Side: 
+### Parent Side: 
+### Teacher Side: 
 
 ## Inspiration/Problem: 
 
