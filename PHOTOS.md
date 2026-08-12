@@ -3,7 +3,10 @@
 ## Student Side
 ### Math
 
+
 ### English
+<img width="754" height="398" alt="Screenshot 2026-08-12 at 5 44 09 PM" src="https://github.com/user-attachments/assets/0eeb49cf-58c9-4a25-ac7c-163d3f99a421" />
+
 ### Profile Configuration + Diagnostics
 ### Performance Tracking
 
