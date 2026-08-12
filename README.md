@@ -15,6 +15,7 @@ YouTube Demo Link:
 ## Creation/Development Process: 
 
 ## Challenges and Lessons Learned: 
+While creating the platform and endowing it with the educational resources needed to provide adaptive questions and tests to students preparing for the mathematical section of the SAT, we found ourselves in need of a quick, relatively accurate way to ingest large amounts of questions into a database without compromising on the explanations, answer choices, or question text. The strategy, at first, seemed relatively obvious: utilize a capable LLM or agent to analyze and scan PDFs, write explanations, and properly format expressions, but the reality quickly proved far more labyrinthine that we had initially assumed. 
 
 ## Future Aspirations: 
 
