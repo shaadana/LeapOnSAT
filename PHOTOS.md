@@ -1,4 +1,4 @@
-<img width="1509" height="802" alt="Screenshot 2026-08-12 at 5 59 55 PM" src="https://github.com/user-attachments/assets/e76fdbcd-2c2d-463c-ab29-ee91c0e0913f" /># Photo Gallery
+# Photo Gallery
 
 ## Student Side
 ### Math
