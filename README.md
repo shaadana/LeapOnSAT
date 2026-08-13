@@ -29,6 +29,7 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 2. **Self-Study Online Platforms (eg. Khan Academy) vs. LeapOn SAT:**
 3. **Preparation Academies and Franchises vs. LeapOn SAT:**
 4. **Private Tutoring vs. LeapOn SAT:**
+   - **Private Tutoring WITH LeapOn SAT:** 
 
 ## Creation/Development Process: 
 We used an emerging agentic coding and software development platform known as Base44 to manage the bulk-creation of our files, the integration of APIs and SDKs where necessary, and the handling of data, ensuring that security rules were adequately met while allowing us the flexibility to experiment with new features and pages when needed. That being said, a fair amount of code was handled independently of the agent, as there were certain features, such as the SAT Wordle component, that were initially created as separate tools, made either for fun or for personal use. 
