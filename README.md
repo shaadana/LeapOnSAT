@@ -34,6 +34,7 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 ### Step 1: Basic Feature Outlines
 ### Step 2: Base Resource Ingestion
 ### Step 3: MVP Deployment
+We deployed and tested our MVP, featuring the more inchoate versions of each of the three portals, to the families managed and taught by one specific math tutor, giving us a real, albeit isolated, testing ground to see where exactly the system came apart. 
 ### Step 4: Continuous Iterations
 
 ## Challenges and Lessons Learned: 
