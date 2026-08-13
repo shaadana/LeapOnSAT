@@ -4,6 +4,8 @@
 
 ### Dashboard
 <img width="752" height="405" alt="Screenshot 2026-08-13 at 3 42 54 PM" src="https://github.com/user-attachments/assets/aeae3e3f-c3d7-4080-a166-646bd5581495" />
+
+
 A student's dashboard displays the recommended lessons and activities. 
 
 ### Math
