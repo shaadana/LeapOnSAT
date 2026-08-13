@@ -33,6 +33,7 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 ## Creation/Development Process: 
 ### Step 1: Basic Feature Outlines
 ### Step 2: Base Resource Ingestion
+After deciding where we wanted our pages to be placed, what the brand's identity was supposed to be, and how the three portals would interact with each other to mirror and build upon the systems and intricacies of real-life interactions, we proceeded to find books upon books of resources for Math and English problems, some of which were provided to us exclusively by partners. It was here that we used the LLM PDF ingestion process that will be expounded upon in the Challenges and Lessons Learned section to insert large amounts of questions into the database without compromising time, efficiency, quality of tags, organization, or categorization in the process. 
 ### Step 3: MVP Deployment
 We deployed and tested our MVP, featuring the more inchoate versions of each of the three portals, to the families managed and taught by one specific math tutor, giving us a real, albeit isolated, testing ground to see where exactly the system came apart. 
 ### Step 4: Continuous Iterations
