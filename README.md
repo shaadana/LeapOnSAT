@@ -6,12 +6,16 @@ Currently deployed and ready for use at leaponsat.com
 YouTube Demo Link: 
 
 ## Inspiration/Problem: 
+As a senior in high school myself, I was inspired to create LeapOn by the utter lack of progress I witnessed when attending tutoring programs, academies, and other online platforms for the SAT myself, causing me to compare experiences with my classmates, peers, and friends before sitting down to think about the specific issues I encountered within the common system. 
+The stagnation, disengagement, and ultimate disinterest in improving scores, studying specific SAT techniques, and recognizing patterns rather than memorizing shallow tactics stemmed, in my observations, from the following core issues: 
+
+1. **Most tutoring places and centers don't have the technology to meet you where you're at cognitively** - Although steps have been made in recent years to have students take diagnostic tests upon registering with academies or preparation centers, most models fail to account for all that is belied by the outward performance on a simple test, including the cognitive load, knowledge gaps, executive functioning (or life skill) deficiencies, learning styles, mindset differences, and communication styles, resulting in unproductive lessons and meeting with tutors where students feel as though their parents are simply paying for them to solve problems with another person on the call. 
 
 ## Solution and Features: 
+
 ### Comprehensive List of Features: 
 
 ### Where We Differ: 
-
 
 ## Creation/Development Process: 
 
