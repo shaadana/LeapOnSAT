@@ -31,7 +31,7 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 4. **Private Tutoring vs. LeapOn SAT:**
 
 ## Creation/Development Process: 
-We used an emerging agent coding and software development platform known as Base44 to manage the bulk-creation of our files, the integration of APIs and SDKs where necessary, and the handling of data, ensuring that security rules were adequately met while allowing us the flexibility to experiment with new features and pages when needed. That being said, a fair amount of code was handled independently of the agent, as there were certain features, such as the SAT Wordle component, that were initially created as separate tools, made either for fun or for personal use. 
+We used an emerging agentic coding and software development platform known as Base44 to manage the bulk-creation of our files, the integration of APIs and SDKs where necessary, and the handling of data, ensuring that security rules were adequately met while allowing us the flexibility to experiment with new features and pages when needed. That being said, a fair amount of code was handled independently of the agent, as there were certain features, such as the SAT Wordle component, that were initially created as separate tools, made either for fun or for personal use. 
 ### Step 1: Basic Feature Outlines
 From the beginning of this journey, we knew that we wanted LeapOn SAT to function not simply as another independent preparation platform, but as something that can be used no matter where you are in relation to the SAT Preparation industry that currently involves parents, tutors, schoolteachers, and students with no centralized way to streamline communication or easily share progress. 
 ### Step 2: Base Resource Ingestion
