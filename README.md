@@ -28,7 +28,9 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 - **Study Plans**
 - **Deeper Practice**
 - **AI Tutors**
-- **Question Dissector**
+- **Interactive Lessons**
+- **Deep Mistake Review**
+- **Question Dissector** - For evidence-based analysis and discussion of reading passages, question texts, and other English excerpts. 
 - **Extras**
 
 ### Where We Differ: 
