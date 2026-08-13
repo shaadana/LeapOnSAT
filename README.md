@@ -25,7 +25,7 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 ### Comprehensive List of Features: 
 - **Adaptive Diagnostics**
 - **Knowledge Graphs**
-- **Study Plans**
+- **Study Plans** - When a student enters the platform, whether it's for a focused study session or a quick 5-minute review of less concrete concepts, the struggle of navigation is eliminated by the AI-powered, knowledge graph informed AI Study Plan system that automatically recommends activities of specific complexity levels to users depending on previous performance and necessary remedial actions. 
 - **Deeper Practice**
 - **AI Tutors**
 - **Interactive Lessons** - Our AI-powered interactive lessons begin with concept explanations and proceed as the students continue to understand the facets of the concepts themselves, giving users choices between guided examples, next-step prediction, mistake identification, further discussion, practice problems, and more for an engaging experience. 
