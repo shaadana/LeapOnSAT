@@ -23,6 +23,13 @@ LeapOn provides a three-part solution that caters to the needs, profiles, and mi
 Dynamic knowledge graphs, first set upon completion of Math and English diagnostics and subsequently updated with all practice sessions, lessons, and assignments completed, ensure that students aren't stultified by the paces of traditional SAT Prep curriculums when they're seeking specific concepts, refreshers from previous courses, or practice lessons from different domains. 
 
 ### Comprehensive List of Features: 
+- **Adaptive Diagnostics**
+- **Knowledge Graphs**
+- **Study Plans**
+- **Deeper Practice**
+- **AI Tutors**
+- **Question Dissector**
+- **Extras**
 
 ### Where We Differ: 
 1. **Average Chatbots vs. LeapOn SAT:** Memory and context issues found within most major, mainstream LLMs (including but not limited to ChatGPT, Claude, Gemini, and more) prevent true performance tracking from being executed to its fullest potential, meaning students relying solely upon chatbots found in the regular websites to study and learn may find themselves repeating materials or being served quizzes with difficulties incommensurate with their knowledge levels. In addition, unless prompted in specific, often abstruse ways, LLMs do not tend to utilize teaching and tutoring techniques found effective, such as active prediction, active recall, and mistake explanation, substituting in-depth discussion with surface-level explanations without checking to see whether users truly understand concepts. 
