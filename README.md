@@ -25,7 +25,7 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 ### Comprehensive List of Features: 
 
 ### Where We Differ: 
-1. **Average Chatbots vs. LeapOn SAT:**
+1. **Average Chatbots vs. LeapOn SAT:** Memory and context issues found within most major, mainstream LLMs (including but not limited to ChatGPT, Claude, Gemini, and more) prevent true performance tracking from being executed to its fullest potential, meaning students relying solely upon chatbots found in the regular websites to study and learn may find themselves repeating materials or being served quizzes with difficulties incommensurate with their knowledge levels. In addition, unless prompted in specific, often abstruse ways, LLMs do not tend to utilize teaching and tutoring techniques found effective, such as active prediction, active recall, and mistake explanation, substituting in-depth discussion with surface-level explanations without checking to see whether users truly understand concepts. 
 2. **Self-Study Online Platforms (eg. Khan Academy) vs. LeapOn SAT:**
 3. **Preparation Academies and Franchises vs. LeapOn SAT:**
 4. **Private Tutoring vs. LeapOn SAT:**
