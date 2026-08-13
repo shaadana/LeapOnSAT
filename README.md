@@ -15,7 +15,7 @@ The stagnation, disengagement, and ultimate disinterest in improving scores, stu
 
 These issues don't disappear for independent learners and autodidacts, especially when high school schedules of the modern ages are already subject to contortion at the hands of extracurricular activities, part-time jobs, and, in many lower-income and underprivileged communities, familial duties that may include childcare and housework. In speaking with several people who elected to study by their selves, utilizing online resources as well as books recommended to them through channels such as Reddit and Instagram, I was able to identify the following issues that seemed to beleaguer even the highest performers: 
 
-1. **Even when you take a Bluebook practice test or other lengthy exam, you don't know where to start** - 
+1. **Even when you take a Bluebook practice test or other lengthy exam, you don't know where to start** - Although the internet has been incontrovertibly beneficial in terms of enhancing accessibility to resources otherwise left exclusive to certain groups, many students complete a practice test, look at their vague score bands, and then wonder what's to come. Logging on to platforms like Khan Academy, which present the same courses, quizzes, videos, and articles for every user, students are met with blank slates that presume Unit 1 is the starting stone for everyone, often forcing some students to repeat material while neglecting to present remedial materials to those who may need them. 
 
 ## Solution and Features: 
 
