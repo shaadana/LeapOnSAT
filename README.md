@@ -23,6 +23,7 @@ LeapOn provides a three-part solution that caters to the needs, profiles, and mi
 Dynamic knowledge graphs, first set upon completion of Math and English diagnostics and subsequently updated with all practice sessions, lessons, and assignments completed, ensure that students aren't stultified by the paces of traditional SAT Prep curriculums when they're seeking specific concepts, refreshers from previous courses, or practice lessons from different domains. 
 
 ### Comprehensive List of Features: 
+All features can be seen in the image gallery, demonstration video, and live platform (accessible at PHOTOS.md, YouTube, and leaponsat.com respectively) 
 - **Adaptive Diagnostics**
 - **Knowledge Graphs**
 - **Study Plans** - When a student enters the platform, whether it's for a focused study session or a quick 5-minute review of less concrete concepts, the struggle of navigation is eliminated by the AI-powered, knowledge graph informed AI Study Plan system that automatically recommends activities of specific complexity levels to users depending on previous performance and necessary remedial actions. 
