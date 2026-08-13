@@ -25,6 +25,10 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 ### Comprehensive List of Features: 
 
 ### Where We Differ: 
+1. **Average Chatbots vs. LeapOn SAT:**
+2. **Self-Study Online Platforms (eg. Khan Academy) vs. LeapOn SAT:**
+3. **Preparation Academies and Franchises vs. LeapOn SAT:**
+4. **Private Tutoring vs. LeapOn SAT:**
 
 ## Creation/Development Process: 
 
