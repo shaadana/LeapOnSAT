@@ -28,7 +28,7 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 - **Study Plans**
 - **Deeper Practice**
 - **AI Tutors**
-- **Interactive Lessons**
+- **Interactive Lessons** - Our AI-powered interactive lessons begin with concept explanations and proceed as the students continue to understand the facets of the concepts themselves, giving users choices between guided examples, next-step prediction, mistake identification, further discussion, practice problems, and more for an engaging experience. 
 - **Deep Mistake Review**
 - **Question Dissector** - For evidence-based analysis and discussion of reading passages, question texts, and other English excerpts. 
 - **Extras**
