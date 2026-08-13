@@ -31,7 +31,9 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 4. **Private Tutoring vs. LeapOn SAT:**
 
 ## Creation/Development Process: 
+We used an emerging agent coding and software development platform known as Base44 to manage the bulk-creation of our files, the integration of APIs and SDKs where necessary, and the handling of data, ensuring that security rules were adequately met while allowing us the flexibility to experiment with new features and pages when needed. That being said, a fair amount of code was handled independently of the agent, as there were certain features, such as the SAT Wordle component, that were initially created as separate tools, made either for fun or for personal use. 
 ### Step 1: Basic Feature Outlines
+
 ### Step 2: Base Resource Ingestion
 After deciding where we wanted our pages to be placed, what the brand's identity was supposed to be, and how the three portals would interact with each other to mirror and build upon the systems and intricacies of real-life interactions, we proceeded to find books upon books of resources for Math and English problems, some of which were provided to us exclusively by partners. It was here that we used the LLM PDF ingestion process that will be expounded upon in the Challenges and Lessons Learned section to insert large amounts of questions into the database without compromising time, efficiency, quality of tags, organization, or categorization in the process. 
 ### Step 3: MVP Deployment
