@@ -18,6 +18,9 @@ These issues don't disappear for independent learners and autodidacts, especiall
 1. **Even when you take a Bluebook practice test or other lengthy exam, you don't know where to start** - Although the internet has been incontrovertibly beneficial in terms of enhancing accessibility to resources otherwise left exclusive to certain groups, many students complete a practice test, look at their vague score bands, and then wonder what's to come. Logging on to platforms like Khan Academy, which present the same courses, quizzes, videos, and articles for every user, students are met with blank slates that presume Unit 1 is the starting stone for everyone, often forcing some students to repeat material while neglecting to present remedial materials to those who may need them. 
 
 ## Solution and Features: 
+LeapOn provides a three-part solution that caters to the needs, profiles, and mindsets of students, teachers, and parents, facilitating progress, communication, and performance tracking through a system that uses AI as a tool to enhance connection rather than hinder it. As for the independent learner, the AI agent integrations within the LeapOn platform adapt specially to the specific cues picked up on in the Learner's Profile diagnostic, which identifies where student's brains are still developing and how this may affect their practice consistencies, time management skills, and goal-setting abilities, allowing users to make plans, ask questions, and receive lessons in constructive ways. 
+
+Dynamic knowledge graphs, first set upon completion of Math and English diagnostics and subsequently updated with all practice sessions, lessons, and assignments completed, ensure that students aren't stultified by the paces of traditional SAT Prep curriculums when they're seeking specific concepts, refreshers from previous courses, or practice lessons from different domains. 
 
 ### Comprehensive List of Features: 
 
