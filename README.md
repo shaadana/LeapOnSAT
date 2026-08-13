@@ -8,6 +8,7 @@ YouTube Demo Link:
 ## Inspiration/Problem: 
 
 ## Solution and Features: 
+### Comprehensive List of Features: 
 
 ### Where We Differ: 
 
