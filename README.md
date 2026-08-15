@@ -24,15 +24,15 @@ Dynamic knowledge graphs, first set upon completion of Math and English diagnost
 
 ### Comprehensive List of Features: 
 All features can be seen in the image gallery, demonstration video, and live platform (accessible at PHOTOS.md, YouTube, and leaponsat.com respectively) 
-- **Adaptive Diagnostics**
-- **Knowledge Graphs**
+- **Adaptive Diagnostics** - Adaptive diagnostics are the first things taken when a user registers with LeapOn SAT, beginning the continuous process of calibration for an accurate knowledge graph and profile. 
+- **Knowledge Graphs** - The nodes of the knowledge graph represent the interconnected concepts of SAT Math and SAT English, so students don't have to take lessons for the nodes they've already demonstrated mastery in. The way in which a student's knowledge graph is filled, which in and of itself shifts as they practice and answer questions, influences the items recommended to the student by the AI Study Plan. 
 - **Study Plans** - When a student enters the platform, whether it's for a focused study session or a quick 5-minute review of less concrete concepts, the struggle of navigation is eliminated by the AI-powered, knowledge graph informed AI Study Plan system that automatically recommends activities of specific complexity levels to users depending on previous performance and necessary remedial actions. 
 - **Deeper Practice**
 - **AI Tutors**
 - **Interactive Lessons** - Our AI-powered interactive lessons begin with concept explanations and proceed as the students continue to understand the facets of the concepts themselves, giving users choices between guided examples, next-step prediction, mistake identification, further discussion, practice problems, and more for an engaging experience. 
 - **Deep Mistake Review**
 - **Question Dissector** - For evidence-based analysis and discussion of reading passages, question texts, and other English excerpts. 
-- **Extras**
+- **Extras** - From vocabulary drill games to question generators that use excerpts of students' own pieces of writing, LeapOn SAT is always finding new ways to help students recognize patterns and strategies, creating an environment where everyone can practice, learn, and grow in a way appealing to them. 
 
 ### Where We Differ: 
 1. **Average Chatbots vs. LeapOn SAT:** Memory and context issues found within most major, mainstream LLMs (including but not limited to ChatGPT, Claude, Gemini, and more) prevent true performance tracking from being executed to its fullest potential, meaning students relying solely upon chatbots found in the regular websites to study and learn may find themselves repeating materials or being served quizzes with difficulties incommensurate with their knowledge levels. In addition, unless prompted in specific, often abstruse ways, LLMs do not tend to utilize teaching and tutoring techniques found effective, such as active prediction, active recall, and mistake explanation, substituting in-depth discussion with surface-level explanations without checking to see whether users truly understand concepts. 
