@@ -9,6 +9,8 @@ After creating your account, selecting "I'm a Student," and clicking through the
 
 Begin your diagnostic for your chosen subject (there's no preferred order) by clicking "Start Adaptive Diagnostic" or "Start Diagnostic. 
 
+Take your diagnostic carefully! Although time is tracked, there's no time limit, so try your best on questions because they do determine your knowledge level!
+
 
 # Teacher Guide
 # Parent Guide
